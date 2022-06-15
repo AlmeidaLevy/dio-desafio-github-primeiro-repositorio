@@ -1,0 +1,16 @@
+Alguns comandos úteis:
+-dir ou ls = lista todas a pastas dentro do diretório.
+-cd = serve para navegar entre as pastas.
+-cd .. = volta para a pasta anterior.
+-cls = limpa o terminal.
+-tab = completa nome de pasta ou arquivo automáticamente.
+-mkdir = cria uma pasta.
+-rmdir = apaga a pasta e tudo que tem nela.
+-del = deleta apenas arquivos.
+-seta para cima = navega no histórico de comandos.
+-git init = inicia o git em uma pasta ou repositório.
+-git add = adciona pastas ou arquivos ao seu terminal local.
+-git commit = serve para commitar pastas ou arquivos.
+-git status = verfica arquivos e pastas.
+-git push = faz upload do conteúdo para o github.
+-git pull = faz o download do conteúdo do github para o seu terminal local.
